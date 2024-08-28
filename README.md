@@ -47,21 +47,19 @@ flexible.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc1.png" alt="Image 1" width="700"/>
-</div>
-<div align="center">
+  <div align="center">
   Analysis A1 (left) and Analysis A2 (right)
 </div>
-
+</div>
 
 ● Analysis A3: Translational and rotational load are applied in steps of t = 10 secs on the geometrically imperfect shell to generate folds in the semi-ellipsoidal shape, replicating the volumetric deformed state.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc2.png" alt="Image 1" width="700"/>
-</div>
-<div align="center">
+  <div align="center">
    Analysis A3 
 </div>
-
+</div>
 
 ● Obtaining volumetric reduction - Importing the volumetric deformed state in Analysis A3 of the shell in Solidworks and comparing it with the initial one gives us the volumetric deformation.
 
@@ -70,12 +68,13 @@ flexible.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc3%20(1).png" alt="Image 1" width="700"/>
-</div>
-<div align="center">
+  <div align="center">
 A semi-ellipsoidal-shaped nozzle with an exit diameter of 50 mm can increase the exit velocity, thus increasing the thrust force.  
 </div>
+</div>
 
-* **Performance Metrics and Conclusion - We calculate the mesh convergence error to verify our simulation results. We get a 0.7 % mesh convergence error, which gives our simulation results reasonable accuracy. The following metrics are comparable with preliminary robots that have tried to mimic squids, but here we achieved these metrics by using mostly soft components.
+
+* **Performance Metrics and Conclusion - We calculate the mesh convergence error to verify our simulation results. We get a 0.7 % mesh convergence error, which gives our simulation results reasonable accuracy. The following metrics are comparable with preliminary robots that have tried to mimic squids, but here, we achieved these metrics by using mostly soft components.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-08-28%20175118.png" alt="Image 1" width="700"/>
