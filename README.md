@@ -52,6 +52,8 @@ flexible.
 </div>
 </div>
 
+<br>
+
 ● Analysis A3: Translational and rotational load are applied in steps of t = 10 secs on the geometrically imperfect shell to generate folds in the semi-ellipsoidal shape, replicating the volumetric deformed state.
 
 <div align="center">
@@ -60,6 +62,8 @@ flexible.
    Analysis A3 
 </div>
 </div>
+
+<br>
 
 ● Obtaining volumetric reduction - Importing the volumetric deformed state in Analysis A3 of the shell in Solidworks and comparing it with the initial one gives us the volumetric deformation.
 
@@ -73,8 +77,9 @@ A semi-ellipsoidal-shaped nozzle with an exit diameter of 50 mm can increase the
 </div>
 </div>
 
+<br>
 
-* **Performance Metrics and Conclusion - We calculate the mesh convergence error to verify our simulation results. We get a 0.7 % mesh convergence error, which gives our simulation results reasonable accuracy. The following metrics are comparable with preliminary robots that have tried to mimic squids, but here, we achieved these metrics by using mostly soft components.
+* **Performance Metrics and Conclusion** - We calculate the mesh convergence error to verify our simulation results. We get a 0.7 % mesh convergence error, which gives our simulation results reasonable accuracy. The following metrics are comparable with preliminary robots that have tried to mimic squids, but here, we achieved these metrics by using mostly soft components.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-08-28%20175118.png" alt="Image 1" width="700"/>
