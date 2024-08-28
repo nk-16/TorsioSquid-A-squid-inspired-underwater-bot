@@ -26,12 +26,16 @@ flexible.
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-06-10%20025813.png" alt="Image 1" width="700"/>
 </div>
-   
+
+<br>
+
 2. Meshing parameters - We choose Nonlinear Mechanical and large deflection while meshing to capture the nonlinearities of a soft robot. The element order was kept linear, and the element size was 3.75 mm. The Automatic meshing method has been used, which generally creates a tetrahedral mesh for 3D models, which balances computational efficiency and accuracy. Thus, we get an average element quality of 0.78 with nodes <50000.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-06-10%20030331.png" alt="Image 1" width="700"/>
 </div>
+
+<br>
 
 3. Boundary conditions - The base of the shell has been kept fixed while all the forces and remote displacement have been provided at the top of the apex. A Force of 1.25 N has been applied at the centre of the apex to consider the weight of the electronics enclosed within the apex of semi ellipsoidal shell.
 
@@ -39,6 +43,8 @@ flexible.
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-06-10%20030546.png" alt="Image 1" width="400"/>
    <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-06-10%20091051.png" alt="Image 2" width="400"/>
 </div>
+
+<br>
 
 4. Nonlinear buckling and Eigenvalue buckling to find  volumetric deformation
    
@@ -48,7 +54,7 @@ flexible.
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc1.png" alt="Image 1" width="700"/>
   <div align="center">
-  Analysis A1 (left) and Analysis A2 (right)
+Analysis A1 (left) and Analysis A2 (right)
 </div>
 </div>
 
@@ -59,7 +65,7 @@ flexible.
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc2.png" alt="Image 1" width="700"/>
   <div align="center">
-   Analysis A3 
+Analysis A3 
 </div>
 </div>
 
