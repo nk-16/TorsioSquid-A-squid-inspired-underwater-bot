@@ -3,8 +3,9 @@
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Picture2.png" alt="Image 1" width="700"/>
 </div>
-
+<div style="text-align: justify;">
 Underwater soft robotics is an emerging field due to the increased need for underwater exploration and surveillance, which requires blending with natural habitats. Although previous work has been done mimicking fishes and octopuses, only a few have tried to imitate the mantle movement of squid. Mimicking the mantle's propulsion mechanism could lead to a compact design, which we have presented through the TorsioSquid, a bio-inspired robotic system. 
+</div>
 
 * **Working and Design**
 
@@ -13,7 +14,7 @@ Underwater soft robotics is an emerging field due to the increased need for unde
 </div>
 
 Key to TorsioSquid's actuation is a unique combination of torsional buckling and Bowden cables. Torsional buckling, a form of mechanical imperfection, is induced in the system through carefully engineered
-Bowden cables arranged in a specific helical geometry. We have kept all electronics and mechanisms in a semi-ellipsoidal shell of Ecoflex. At the core of TorsioSquid is a linear actuator housed within the apex of the shell, whose circuit has been isolated from water to prevent damage. All the bowden cables have been arranged in a helix around the shell, one end of which has been connected to the linear actuator while the other end has been fixed to the apex of the shell. As the linear actuator retracts, it pulls on the Bowden cables arranged in a helix around the shell. The helical geometry imparts axial and tangential forces on the shell, inducing a combined axial and torsional movement. By optimising the helix angles and cable configurations, we induce controlled buckling of the shell, which will lead to the volumetric reduction of the shell, mimicking the squid's mantle movement and generating thrust for propulsion.
+Bowden cables are arranged in a specific helical geometry. We have kept all electronics and mechanisms in a semi-ellipsoidal shell of Ecoflex. At the core of TorsioSquid is a linear actuator housed within the apex of the shell, whose circuit has been isolated from water to prevent damage. All the bowden cables have been arranged in a helix around the shell, one end of which has been connected to the linear actuator while the other end has been fixed to the apex of the shell. As the linear actuator retracts, it pulls on the Bowden cables arranged in a helix around the shell. The helical geometry imparts axial and tangential forces on the shell, inducing a combined axial and torsional movement. By optimising the helix angles and cable configurations, we induce controlled buckling of the shell, which will lead to the volumetric reduction of the shell, mimicking the squid's mantle movement and generating thrust for propulsion.
   
 * **Modelling, Simulation and Analysis**
 
@@ -47,6 +48,8 @@ flexible.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc1.png" alt="Image 1" width="700"/>
+</div>
+<div align="center">
   Analysis A1 (left) and Analysis A2 (right)
 </div>
 
