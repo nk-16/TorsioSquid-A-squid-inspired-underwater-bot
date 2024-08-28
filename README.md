@@ -3,9 +3,8 @@
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Picture2.png" alt="Image 1" width="700"/>
 </div>
-<div style="text-align: justify;">
+
 Underwater soft robotics is an emerging field due to the increased need for underwater exploration and surveillance, which requires blending with natural habitats. Although previous work has been done mimicking fishes and octopuses, only a few have tried to imitate the mantle movement of squid. Mimicking the mantle's propulsion mechanism could lead to a compact design, which we have presented through the TorsioSquid, a bio-inspired robotic system. 
-</div>
 
 * **Working and Design**
 
@@ -53,12 +52,16 @@ flexible.
   Analysis A1 (left) and Analysis A2 (right)
 </div>
 
+
 ● Analysis A3: Translational and rotational load are applied in steps of t = 10 secs on the geometrically imperfect shell to generate folds in the semi-ellipsoidal shape, replicating the volumetric deformed state.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc2.png" alt="Image 1" width="700"/>
-  Analysis A3 
 </div>
+<div align="center">
+   Analysis A3 
+</div>
+
 
 ● Obtaining volumetric reduction - Importing the volumetric deformed state in Analysis A3 of the shell in Solidworks and comparing it with the initial one gives us the volumetric deformation.
 
@@ -67,10 +70,12 @@ flexible.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/abc3%20(1).png" alt="Image 1" width="700"/>
-  A semi-ellipsoidal-shaped nozzle with an exit diameter of 50 mm can increase the exit velocity, thus increasing the thrust force.
+</div>
+<div align="center">
+A semi-ellipsoidal-shaped nozzle with an exit diameter of 50 mm can increase the exit velocity, thus increasing the thrust force.  
 </div>
 
-* **Performance Metrics and Conclusion - We calculate the mesh convergence error to verify our simulation results. We get a 0.7 % mesh convergence error, which gives our simulation results reasonable accuracy. The following metrics are comparable with preliminary robots which have tried to mimic squids, using mostly soft components.
+* **Performance Metrics and Conclusion - We calculate the mesh convergence error to verify our simulation results. We get a 0.7 % mesh convergence error, which gives our simulation results reasonable accuracy. The following metrics are comparable with preliminary robots that have tried to mimic squids, but here we achieved these metrics by using mostly soft components.
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-08-28%20175118.png" alt="Image 1" width="700"/>
